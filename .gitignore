@@ -1,0 +1,14 @@
+.classpath
+.project
+.settings/
+# Compiled source #
+###################
+/target/
+target/
+/log/
+# project log and target #
+#####################
+.idea/
+*.iml
+.project
+# OS generated files #
