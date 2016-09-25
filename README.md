@@ -6,7 +6,7 @@ Steps to configure
 
 2: Intall Java 1.8
 
-3: clone project to your local, git clone <ssh-url>
+3: clone project to your local, git clone https://gitlab.com/kgajay/crm-sync.git
 
 4: go to crm-sync
 
